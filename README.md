@@ -15,13 +15,3 @@ Personal portfolio site showcasing selected software engineering projects. Built
 | [Multi-Threaded Search Engine](https://github.com/areebmohammed/multithreaded-search-engine) | Concurrent web crawler and inverted index search engine in C++ |
 | [Tax Brackets Explained](https://github.com/areebmohammed/tax-brackets-explained) | Interactive data visualization of the U.S. federal income tax bracket system |
 | [Emirates Route Profitability Dashboard](https://github.com/areebmohammed/emirates-dashboard) | Analytical dashboard exploring route-level profitability using Vega-Lite |
-
-## Tech
-
-- HTML, CSS, JavaScript
-- No frameworks or dependencies
-- Hosted on GitHub Pages
-
-## About
-
-Areeb Mohammed — B.S. Computer Science, University of Washington (2027). Minor in Business and Statistics.
